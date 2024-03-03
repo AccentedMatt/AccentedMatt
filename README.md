@@ -15,8 +15,9 @@ who knows where the wind will take us?
     <img src="https://skillicons.dev/icons?i=pycharm,py,arduino,raspberrypi,linux,mysql,discord,git,html,css,ableton" />
  </a>
 </p>
+<h2><img src="https://tryhackme-badges.s3.amazonaws.com/Accented.Matt.png" alt="TryHackMe"></h2>
 
-<!--
+   <!--
 **AccentedMatt/AccentedMatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
