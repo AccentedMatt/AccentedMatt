@@ -1,7 +1,7 @@
 # About Me
-Hello! My name is Matthew, I'm 18 and I'm from Belfast, Northern Ireland.
+Hello! My name is Matthew, I'm 19 and I'm from Belfast, Northern Ireland.
 
-I started way back on a Windows 98 Machine (pure shock, a kid born in 2005 with a windows 98 machine) and I have progressed through the horror-scape of new operating systems. I also have recent experience in using linux machines for both industrial and personal use.
+I started way back on a Windows 98 Machine (pure shock, a kid born post 2000's with a windows 98 machine) and I have progressed through the horror-scape of new operating systems. I also have recent experience in using linux machines for both industrial and personal use.
 
 I enjoy learning and if anyone has any feedback they are willing to leave, please leave a comment on anything. I am, of course, still learning.
 
