@@ -12,7 +12,7 @@ who knows where the wind will take us?
 <p align="center">
   <h2>Experience<h2/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pycharm,py,arduino,raspberrypi,linux,mysql,discord,git,html,css,ableton" />
+    <img src="https://skillicons.dev/icons?i=pycharm,py,arduino,raspberrypi,linux,mysql,discord,git,html,css,ableton, java" />
  </a>
 </p>
 <h2><img src="https://tryhackme-badges.s3.amazonaws.com/Accented.Matt.png" alt="TryHackMe"></h2>
